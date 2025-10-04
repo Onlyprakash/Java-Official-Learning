@@ -7,35 +7,35 @@ This project includes multiple programs that explore object-oriented principles,
 
 🚀 FEATURES :-
 
-Implements classes and objects for real-world modeling.
+➤ Implements classes and objects for real-world modeling.
 
-Demonstrates file handling operations in Java.
+➤ Demonstrates file handling operations in Java.
 
-Uses constructors and methods to initialize and manipulate data.
+➤ Uses constructors and methods to initialize and manipulate data.
 
-Follows object-oriented programming (OOP) principles such as encapsulation and inheritance.
+➤ Follows object-oriented programming (OOP) principles such as encapsulation and inheritance.
 
-Well-structured code for easy understanding and learning.
+➤ Well-structured code for easy understanding and learning.
 
 🧠 LEARNING OBJECTIVES :-
 
-This project helps in understanding:
+➤ This project helps in understanding:
 
-Core Java syntax and structure.
+➤ Core Java syntax and structure.
 
-Object-oriented programming concepts.
+➤ Object-oriented programming concepts.
 
-Practical implementation of file handling.
+➤ Practical implementation of file handling.
 
-How constructors and methods improve code modularity.
+➤ How constructors and methods improve code modularity.
 
 🛠️ TECHNOLOGIES USED :-
 
-Programming Language: Java
+➤ Programming Language: Java
 
-IDE Support: IntelliJ IDEA
+➤ IDE Support: IntelliJ IDEA
 
-Java Version: JDK 8 or above
+➤ Java Version: JDK 8 or above
 
 👤 AUTHOR :-
 
