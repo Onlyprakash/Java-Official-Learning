@@ -1,4 +1,5 @@
 Java Learning:-
+
 📘 Project Overview:
 
 The Java Learning project is a personal learning repository created to practice and demonstrate fundamental Java programming concepts.
@@ -36,8 +37,9 @@ Java Version: JDK
 
 👤 Author:
  Prakash Kumar (Onlyprakash)
-📎 GitHub Profile
-👉 github.com/Onlyprakash
+📎 GitHub Profile:-
+👉 
+https://github.com/Onlyprakash
 
 IDE Support: IntelliJ IDEA, Eclipse, NetBeans, or VS Code
 
