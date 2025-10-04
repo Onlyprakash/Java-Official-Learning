@@ -1,7 +1,7 @@
 Java Learning:-
 📘 Project Overview:
 
-*The Java Learning project is a personal learning repository created to practice and demonstrate fundamental Java programming concepts.
+The Java Learning project is a personal learning repository created to practice and demonstrate fundamental Java programming concepts.
 This project includes multiple programs that explore object-oriented principles, file handling, and the use of constructors and methods to build modular, reusable, and efficient Java code.
 
 🚀 Features:
