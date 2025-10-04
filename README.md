@@ -1,11 +1,11 @@
-🖥️ [JAVA LEARNING]
+# 🖥️ [JAVA LEARNING]
 
 📘 PROJECT OVERVIEW :-
 
 The Java Learning project is a personal learning repository created to practice and demonstrate fundamental Java programming concepts.
 This project includes multiple programs that explore object-oriented principles, file handling, and the use of constructors and methods to build modular, reusable, and efficient Java code.
 
-🚀 FEATURES :-
+# 🚀 FEATURES :-
 
 ➤ Implements classes and objects for real-world modeling.
 
@@ -17,7 +17,7 @@ This project includes multiple programs that explore object-oriented principles,
 
 ➤ Well-structured code for easy understanding and learning.
 
-🧠 LEARNING OBJECTIVES :-
+# 🧠 LEARNING OBJECTIVES :-
 
 ➤ This project helps in understanding:
 
@@ -29,7 +29,7 @@ This project includes multiple programs that explore object-oriented principles,
 
 ➤ How constructors and methods improve code modularity.
 
-🛠️ TECHNOLOGIES USED :-
+# 🛠️ TECHNOLOGIES USED :-
 
 ➤ Programming Language: Java
 
@@ -37,7 +37,7 @@ This project includes multiple programs that explore object-oriented principles,
 
 ➤ Java Version: JDK 8 or above
 
-👤 AUTHOR :-
+# 👤 AUTHOR :-
 
 Prakash Kumar (Onlyprakash)
 📎 GitHub Profile:
