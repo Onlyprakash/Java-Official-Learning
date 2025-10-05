@@ -1,7 +1,6 @@
 #  <img width="144" height="144" alt="icons8-java-logo-144" src="https://github.com/user-attachments/assets/24073abe-11b6-412d-938a-a32f61e81b51" /> JAVA LEARNING....
 
 💡File 1: Main.java
-
 # 📘 FILE OVERVIEW :-
 
 This is a comprehensive script covering the foundational building blocks of the Java language. It acts as a complete set of notes and examples for Java fundamentals, starting from the most basic data types and progressing to more complex topics like multi-dimensional arrays.
@@ -31,7 +30,6 @@ This is a comprehensive script covering the foundational building blocks of the 
 ➤ To become proficient in creating and manipulating arrays for data storage.
 
 💡File 2: class.java
-
 # 📘 FILE OVERVIEW :-
 
 This file serves as a basic introduction to Object-Oriented Programming (OOP) in Java. It demonstrates the fundamental concept of creating a "blueprint" (a class) and then creating actual instances from it (objects). The example uses an Employee class to model a real-world entity.
@@ -59,7 +57,6 @@ This file serves as a basic introduction to Object-Oriented Programming (OOP) in
 ➤ To understand how each object maintains its own separate state.
 
 💡File 3: Practice_class.java
-
 # 📘 FILE OVERVIEW :-
 
 This file contains a collection of practical exercises that explore the core principles of Object-Oriented Programming (OOP) in greater depth. It moves beyond basic class creation to showcase how major OOP pillars like Encapsulation, Inheritance, and Abstraction are implemented in Java.
