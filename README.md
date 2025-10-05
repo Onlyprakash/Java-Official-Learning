@@ -7,17 +7,17 @@ This is a comprehensive script covering the foundational building blocks of the 
 
 # 🚀 KEY FEATURES & CONCEPTS :-
 
-➤ Data Types:->   Demonstrates all primitive types (int, char, boolean, etc.) and their ranges.
+➤ Data Types :->   Demonstrates all primitive types (int, char, boolean, etc.) and their ranges.
 
-➤ Operators:->   Covers Arithmetic, Assignment, Increment/Decrement, and Bitwise operators.
+➤ Operators :->   Covers Arithmetic, Assignment, Increment/Decrement, and Bitwise operators.
 
-➤ String Manipulation:->   Includes a wide range of essential String class methods.
+➤ String Manipulation :->   Includes a wide range of essential String class methods.
 
-➤ Control Flow:->   Implements conditional logic with if-else, switch-case, and logical operators.
+➤ Control Flow :->   Implements conditional logic with if-else, switch-case, and logical operators.
 
-➤ Loops:->   Provides examples of while, do-while, and for loops, including break and continue.
+➤ Loops :->   Provides examples of while, do-while, and for loops, including break and continue.
 
-➤ Arrays:->  Explores 1D and 2D arrays, with algorithms for searching, finding max value, reversing, and summing elements.
+➤ Arrays :->  Explores 1D and 2D arrays, with algorithms for searching, finding max value, reversing, and summing elements.
 
 # 🧠 LEARNING OBJECTIVES :-
 
@@ -37,15 +37,15 @@ This file serves as a basic introduction to Object-Oriented Programming (OOP) in
 
 # 🚀 KEY FEATURES & CONCEPTS :-
 
-➤ Class Definition:->   Shows how to create a custom class (Employee) from scratch.
+➤ Class Definition :->   Shows how to create a custom class (Employee) from scratch.
 
-➤ Attributes (Fields):->   Defines properties of the class, such as id, name, and Salary.
+➤ Attributes (Fields) :->   Defines properties of the class, such as id, name, and Salary.
 
 ➤ Methods (Behaviors):->   Implements methods like printDetails() and getSalary() to perform actions.
 
-➤ Object Instantiation:->   The test_class creates two distinct Employee objects, peter and John.
+➤ Object Instantiation :->   The test_class creates two distinct Employee objects, peter and John.
 
-➤ State & Behavior:->   Demonstrates setting the state (attributes) of each object and then calling its methods.
+➤ State & Behavior :->   Demonstrates setting the state (attributes) of each object and then calling its methods.
 
 # 🧠 LEARNING OBJECTIVES :-
 
@@ -65,13 +65,13 @@ This file contains a collection of practical exercises that explore the core pri
 
 # 🚀 KEY FEATURES & CONCEPTS :-
 
-➤ Encapsulation:->   Demonstrated with Student and BankAccount classes, using private fields and public getters/setters to protect data.
+➤ Encapsulation :->   Demonstrated with Student and BankAccount classes, using private fields and public getters/setters to protect data.
 
-➤ Inheritance:->   Showcased with Animal/Dog and Grandparent/Parent/Child hierarchies, using the extends and super() keywords.
+➤ Inheritance :->   Showcased with Animal/Dog and Grandparent/Parent/Child hierarchies, using the extends and super() keywords.
 
-➤ Abstraction:->   Implemented with an abstract class Pen and its concrete subclass FountainPen to hide implementation details.
+➤ Abstraction :->   Implemented with an abstract class Pen and its concrete subclass FountainPen to hide implementation details.
 
-➤ Practical Examples:->   Includes simple classes like cellPhone and Square to reinforce the concepts of methods and properties.
+➤ Practical Examples :->   Includes simple classes like cellPhone and Square to reinforce the concepts of methods and properties.
 
 # 🧠 LEARNING OBJECTIVES :-
 
