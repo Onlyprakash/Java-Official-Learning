@@ -7,17 +7,17 @@ This is a comprehensive script covering the foundational building blocks of the 
 
 # 🚀 KEY FEATURES & CONCEPTS :-
 
-➤ Data Types: Demonstrates all primitive types (int, char, boolean, etc.) and their ranges.
+➤ Data Types->   Demonstrates all primitive types (int, char, boolean, etc.) and their ranges.
 
-➤ Operators: Covers Arithmetic, Assignment, Increment/Decrement, and Bitwise operators.
+➤ Operators->   Covers Arithmetic, Assignment, Increment/Decrement, and Bitwise operators.
 
-➤ String Manipulation: Includes a wide range of essential String class methods.
+➤ String Manipulation->   Includes a wide range of essential String class methods.
 
-➤ Control Flow: Implements conditional logic with if-else, switch-case, and logical operators.
+➤ Control Flow->   Implements conditional logic with if-else, switch-case, and logical operators.
 
-➤ Loops: Provides examples of while, do-while, and for loops, including break and continue.
+➤ Loops->   Provides examples of while, do-while, and for loops, including break and continue.
 
-➤ Arrays: Explores 1D and 2D arrays, with algorithms for searching, finding max value, reversing, and summing elements.
+➤ Arrays->  Explores 1D and 2D arrays, with algorithms for searching, finding max value, reversing, and summing elements.
 
 # 🧠 LEARNING OBJECTIVES :-
 
