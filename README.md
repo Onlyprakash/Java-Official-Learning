@@ -1,6 +1,6 @@
 #  <img width="144" height="144" alt="icons8-java-logo-144" src="https://github.com/user-attachments/assets/24073abe-11b6-412d-938a-a32f61e81b51" /> JAVA LEARNING....
 
-File 1: Main.java
+💡File 1: Main.java
 
 # 📘 FILE OVERVIEW :-
 
@@ -30,7 +30,7 @@ This is a comprehensive script covering the foundational building blocks of the 
 
 ➤ To become proficient in creating and manipulating arrays for data storage.
 
-File 2: class.java
+💡File 2: class.java
 
 # 📘 FILE OVERVIEW :-
 
@@ -58,7 +58,7 @@ This file serves as a basic introduction to Object-Oriented Programming (OOP) in
 
 ➤ To understand how each object maintains its own separate state.
 
-File 3: Practice_class.java
+💡File 3: Practice_class.java
 
 # 📘 FILE OVERVIEW :-
 
